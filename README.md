@@ -1,10 +1,17 @@
 # cnc-ultimate-collection-launchers
-Command &amp; Conquer Ultimate Collection Launchers FIX all win 10
+Command &amp; Conquer Ultimate Collection Launchers FIX all win 10 
+Fixed Launchers for The Ultimate Collection
+
+
+| SIMSCOLONY| WickedWhims |
+| ------------- | ------------- |
+| ดาวโหลด MOD แปลไทย V22 | [MOD ไทย WickedWhims](h) |
 
 
 # How to install 
 
-1.open origin and siting Command & Conquer™ The Ultimate Collection Additional Content and Copy seric key
+1.open origin and install Command & Conquer™ The Ultimate Collection Additional Content and Copy seric key
+
 2.install all game Command & Conquer™
 * Command & Conquer™
 * Command & Conquer™ The Covert Operations™
@@ -23,16 +30,26 @@ Command &amp; Conquer Ultimate Collection Launchers FIX all win 10
 * Command & Conquer™ Red Alert™ 3
 * Command & Conquer™ Red Alert™ 3 Uprising
 * Command & Conquer™ 4 Tiberian Twilight
+
 3.setup file cnc-ultimate-collection-launchers and past key Command & Conquer™ The Ultimate Collection
+
 4.click icon this to fix play! Enjoy
+![CNC](https://i.imgur.com/FUmNnXw.png)
 
 ==========================================
 More addon with new icon 
 NOTE: This topic has been recovered from the now closed official C&C Forums and reposted here on CNCNZ.com
 @Bibber has worked on some new launchers for all the games of The Ultimate Collection which fix some registry entries and let command-line parameters (e.g. -ui -win) pass through.
+
+If you want to run the Deluxe Version in Window Mode, just right-click the shortcut, go to Properties, and add the following commands:
+![CNC2](https://i.imgur.com/OZQAnjT.jpg)
+![CNC2](https://i.imgur.com/vRlY9Am.png)
+![CNC2](https://i.imgur.com/JhAhaCw.png)
+![CNC2](https://i.imgur.com/PCdvfe8.png)
+
 ==========================================
 
-# manual for code
+# manual for author fix if setup problam
 ======================================================================
 ## code fix
 Command-line parameters
@@ -50,6 +67,37 @@ ra3 = C&C Red Alert 3
 ra3ep1 = C&C Red Alert 3 Uprising
 
 ========================================================
+Regity key
+
+Origin IDs of The Ultimate Collection games (other locale versions)
+16 February 2013 - 01:31 AM
+
+Hey guys,
+I would like to ask if anyone of you could give me the Origin IDs of the games of The Ultimate Collection for others than the English version and the locale shortcut. The information can be found in the registry.
+
+The IDs are listed in: "HKEY_LOCAL_MACHINE\SOFTWARE\[Wow6432Node]\Origin Games"
+The locale shortcut can be found in the key of the ID or in: "HKEY_LOCAL_MACHINE\SOFTWARE\[Wow6432Node]\EA Games\"
+
+
+English Version
+
+Locale shortcut
+en_us
+
+IDs
+1001278: C&C1;
+1001287: RA1
+1001294: C&C2; TS + FS
+1001298: RA2 + YR
+1001302: Renegade
+1001303: Generals + ZH
+1001307: C&C4;
+1001986: RA3 + Uprising
+1001988: C&C3; TW + KW
+
+
+If you have this information for other locale versions, please post it here.
+========================================================
 Command & Conquer Ultimate Collection Launchers is a tool (made by Vukasin_Djordjevic) for Command & Conquer Ultimate Collection.
 
 Description:With Command & Conquer Ultimate Collection Launchers you can use mods on the Origin version of Command & Conquer.
@@ -60,3 +108,5 @@ Instructions:Extract into game’s folder and launch „C&C Ultimate Collection 
 *http://bibber.eu/downloads/cnc-ultimate-collection-launchers/ http://files.cncnz.com/cnc-ultimate-collection-launchers.zip
 *https://cncnz.com/features/technical-support-help-guides/fixed-launchers-for-command-conquer-the-ultimate-collection/
 *https://www.gamepressure.com/download.asp?ID=63471
+*https://github.com/CnCNet/cnc-ddraw/releases
+*https://downloads.cncfps.com/UltimateCollection/
