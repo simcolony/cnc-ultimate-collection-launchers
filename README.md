@@ -4,7 +4,6 @@ Fixed Launchers for The Ultimate Collection
 :octocat: :rabbit: :alien: :+1: :bee: :bell: :ghost: :bulb: :imp:
 
 
-
 # How to install 
 
 1.open origin and install Command & Conquer™ The Ultimate Collection Additional Content and Copy seric key
@@ -35,12 +34,14 @@ Fixed Launchers for The Ultimate Collection
 | Ultimate Collection Launchers V 1.16 | [CNC  V 1.16 ](h) |
 | Ultimate Collection Launchers V 1.20 | [CNC  V 1.20 ](h) |
 
+![CNC](https://i.imgur.com/rzs95dW.jpg)
+
 4.click icon this to fix play! Enjoy
 ![CNC](https://i.imgur.com/FUmNnXw.png)
 
 
 
-
+--------------------------------------------------------------
 ## Below for fix code with setup Old CD,steam
 #If you have this information for other locale versions, please Use edit icon.
 ========================================================
