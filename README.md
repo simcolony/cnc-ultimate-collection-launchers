@@ -1,11 +1,12 @@
 # cnc-ultimate-collection-launchers
-Command &amp; Conquer Ultimate Collection Launchers FIX all win 10 
+Command &amp; Conquer Ultimate Collection Launchers FIX all win 10 on origin setup
 Fixed Launchers for The Ultimate Collection
 
 
-| SIMSCOLONY| WickedWhims |
+| Command &amp; Conquer FIX| Download |
 | ------------- | ------------- |
-| ดาวโหลด MOD แปลไทย V22 | [MOD ไทย WickedWhims](h) |
+| Ultimate Collection Launchers V 1.16 | [CNC  V 1.16 ](h) |
+| Ultimate Collection Launchers V 1.20 | [CNC  V 1.20 ](h) |
 
 
 # How to install 
@@ -36,7 +37,12 @@ Fixed Launchers for The Ultimate Collection
 4.click icon this to fix play! Enjoy
 ![CNC](https://i.imgur.com/FUmNnXw.png)
 
-==========================================
+
+
+
+## Below for fix code with setup Old CD,steam
+#If you have this information for other locale versions, please Use edit icon.
+========================================================
 More addon with new icon 
 NOTE: This topic has been recovered from the now closed official C&C Forums and reposted here on CNCNZ.com
 @Bibber has worked on some new launchers for all the games of The Ultimate Collection which fix some registry entries and let command-line parameters (e.g. -ui -win) pass through.
