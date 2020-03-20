@@ -1,12 +1,8 @@
 # cnc-ultimate-collection-launchers
 Command &amp; Conquer Ultimate Collection Launchers FIX all win 10 on origin setup
 Fixed Launchers for The Ultimate Collection
+:octocat: :rabbit: :alien: :+1: :bee: :bell: :ghost: :bulb: :imp:
 
-
-| Command &amp; Conquer FIX| Download |
-| ------------- | ------------- |
-| Ultimate Collection Launchers V 1.16 | [CNC  V 1.16 ](h) |
-| Ultimate Collection Launchers V 1.20 | [CNC  V 1.20 ](h) |
 
 
 # How to install 
@@ -34,6 +30,11 @@ Fixed Launchers for The Ultimate Collection
 
 3.setup file cnc-ultimate-collection-launchers and past key Command & Conquer™ The Ultimate Collection
 
+| Command &amp; Conquer FIX| Download |
+| ------------- | ------------- |
+| Ultimate Collection Launchers V 1.16 | [CNC  V 1.16 ](h) |
+| Ultimate Collection Launchers V 1.20 | [CNC  V 1.20 ](h) |
+
 4.click icon this to fix play! Enjoy
 ![CNC](https://i.imgur.com/FUmNnXw.png)
 
@@ -58,6 +59,7 @@ If you want to run the Deluxe Version in Window Mode, just right-click the short
 # manual for author fix if setup problam
 ======================================================================
 ## code fix
+```
 Command-line parameters
 -game gen|genep1|cnc3|cnc3ep1|ra2|ra2ep1|ra3|ra3ep1
 
@@ -71,7 +73,7 @@ ra2 = C&C Red Alert 2
 ra2ep1 = C&C Red Alert 2 Yuri's Revenge
 ra3 = C&C Red Alert 3
 ra3ep1 = C&C Red Alert 3 Uprising
-
+```
 ========================================================
 Regity key
 
@@ -86,7 +88,7 @@ The locale shortcut can be found in the key of the ID or in: "HKEY_LOCAL_MACHINE
 
 
 English Version
-
+```
 Locale shortcut
 en_us
 
@@ -100,7 +102,7 @@ IDs
 1001307: C&C4;
 1001986: RA3 + Uprising
 1001988: C&C3; TW + KW
-
+```
 
 If you have this information for other locale versions, please post it here.
 ========================================================
