@@ -55,6 +55,8 @@ If you want to run the Deluxe Version in Window Mode, just right-click the short
 ![CNC2](https://i.imgur.com/JhAhaCw.png)
 ![CNC2](https://i.imgur.com/PCdvfe8.png)
 
+How to (https://www.youtube.com/watch?v=CiV0qMJ-eIM)
+
 ==========================================
 
 # manual for author fix if setup problam
