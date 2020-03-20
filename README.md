@@ -34,7 +34,7 @@ Fixed Launchers for The Ultimate Collection
 | Ultimate Collection Launchers V 1.16 | [CNC  V 1.16 ](https://anonfile.com/xeIe13icob/cncultimatcolleclauncher_1.16_zip) |
 | Ultimate Collection Launchers V 1.16 MIRROR | [CNC  V 1.16 MIRROR](http://www.simfileshare.net/download/1678217/) |
 | Ultimate Collection Launchers V 1.20 | [CNC  V 1.20 ](https://anonfile.com/R6J816i0o5/cnc-ultimate-collection-launchers-fix_1.20_zip)|
-
+| Ultimate Collection Launchers V 1.20 MIRROR| [CNC  V 1.20 MIRROR](http://www.simfileshare.net/download/1678235/) |
 ![CNC](https://i.imgur.com/rzs95dW.jpg)
 
 4.click icon this to fix play! Enjoy
